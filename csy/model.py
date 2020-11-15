@@ -37,3 +37,12 @@ model.compile(
     loss=tf.keras.losses.BinaryCrossentropy(), 
     optimizer=keras.optimizers.Adam(lr=0.001)
 )
+
+history = model.fit(
+    x=x_train,
+    y=y_train,
+    batch_size=512,
+    epochs=1,
+    verbose=1,
+    validation_data=(x_val, y_val),
+)
