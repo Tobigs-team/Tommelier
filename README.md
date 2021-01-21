@@ -26,8 +26,8 @@
     
   - **Deep Factorization Machine** - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction, 2017, Huifeng Guo](https://arxiv.org/pdf/1703.04247.pdf)
   
-    - 장혜림
-    - 정세영
+    - [장혜림](https://github.com/Tobigs-team/Tommelier/blob/main/Results/DeepFM_%EC%9E%A5%ED%98%9C%EB%A6%BC_feature_selection.ipynb)
+    - [정세영](https://github.com/Tobigs-team/Tommelier/blob/main/Results/DeepFM_main.ipynb)
     
   - **Deep & Cross Network** - [DCN V2: Improved Deep & Cross Network and Practical Lessons
 for Web-scale Learning to Rank Systems, 2020, Ruoxi Wang](https://arxiv.org/pdf/2008.13535.pdf)
